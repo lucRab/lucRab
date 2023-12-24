@@ -1,9 +1,8 @@
 ## Olá eu sou Lucas Rabelo👋
 
-### Devoloper | PHP | JAVA | C++
+### Developer | PHP | JAVA | C++
 
-#### Esse é meu repositorios de ideias...
-
+#### - Esse é meu repositorios de ideias...
 
 <!--
 **lucRab/lucRab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
