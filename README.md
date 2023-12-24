@@ -1,6 +1,8 @@
 ## Olá eu sou Lucas Rabelo👋
 
-### Desenvolimento de Sistemas
+### Devoloper | PHP | JAVA | C++
+
+#### Esse é meu repositorios de ideias...
 
 
 <!--
