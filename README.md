@@ -1,5 +1,5 @@
 ## Olá eu sou Lucas Rabelo👋
-#### *TÉCNICO ADS*
+#### *ADS*
 ### Developer | PHP | LARAVEL | C++ | MYSQL
 
 #### - Desenvolvedor Back-End
