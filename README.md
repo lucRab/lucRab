@@ -1,8 +1,10 @@
 ## Olá eu sou Lucas Rabelo👋
+### *TÉCNICO ADS*
+### Developer | PHP | LARAVEL | C++ | MYSQL
 
-### Developer | PHP | JAVA | C++
-
-#### - Esse é meu repositorios de ideias...
+#### - Desenvolvedor Back-End
+#### - Atualmente aprendo a linguagem C++
+#### - Este é meu repositorios de ideias...
 
 <!--
 **lucRab/lucRab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
